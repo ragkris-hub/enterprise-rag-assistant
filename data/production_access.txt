@@ -1,0 +1,6 @@
+Production Access Request Process
+
+Production access requires manager approval, application owner approval, and security approval.
+Access must be requested through the service portal.
+Temporary access expires after 7 days.
+All access requests are audited.
